@@ -3,7 +3,8 @@
 This repository has been created for my Otus Administrator Linux.Professional course. These projects names begins with "Otus".  
 But ofcourse I'm going to public my other project, if they will be create.  
 
-I have some profiles in social nets, but I don't think they are very interesting, for example my VK:
+I have some profiles in social nets, but I don't think they are very interesting, for example my VK:  
+
 <a href='https://vk.com/id17113772'>My vk.com profile</a>
 
 
